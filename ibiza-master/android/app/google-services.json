@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695976467925",
+    "firebase_url": "https://ibiza-9c53d.firebaseio.com",
+    "project_id": "ibiza-9c53d",
+    "storage_bucket": "ibiza-9c53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695976467925:android:54d28798e91cf30242715c",
+        "android_client_info": {
+          "package_name": "com.example.ibiza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695976467925-k6akqk3jm0l6mt99g6mljl3mcjj32bhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ibiza",
+            "certificate_hash": "be716f3323e4906250599ff79e7c95f33113a740"
+          }
+        },
+        {
+          "client_id": "695976467925-e81kg9ul5sqd17r1ukgu5qf212k26niv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-WdPXqPj8xE_GmU9wrTivaWT9mvCoZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695976467925-e81kg9ul5sqd17r1ukgu5qf212k26niv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
